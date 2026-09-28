@@ -11,8 +11,8 @@
 
 export const discordMessages = {
   donate: {
-    title: "💰 Thank you for your donation!",
-    description: "Thanks for your support, {{username}}!",
+    title: "🟢 Donation Received!",
+description: "{{username}} donated {{amount}} R$!",
     fieldLabels: {
       player: "Player",
       amount: "Amount",
